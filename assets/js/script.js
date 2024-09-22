@@ -8,5 +8,8 @@ $(document).ready(function(){
     $('.navbar a').mouseleave(function() {
         $(this).removeClass('text-primary fw-bold');
     });
-
+    
+    $('#botonEnviar').click( function() {
+        alert('El correo fue enviado correctamente...');
+    })
     });
