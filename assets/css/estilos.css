@@ -3,6 +3,10 @@ body{
     color: #fff;
 }
 
+footer a {
+    color: white;
+}
+
 .img-logo{
     width: 30px;
 }
