@@ -1,0 +1,29 @@
+commit c6fa9caff78d2049dd319bbe168dd620e59aa8d4
+Author: zeitan <seba.tancara@gmail.com>
+Date:   Sun Sep 22 18:35:55 2024 -0300
+
+    Creación de alerta en botón enviar
+
+commit f268c1602ef3a6a765476db93f567b1ac1a47520
+Author: zeitan <seba.tancara@gmail.com>
+Date:   Sun Sep 22 18:26:13 2024 -0300
+
+    Creación de cards y footer
+
+commit a691f274be16c22731ee66933fba0b0fd525a0f0
+Author: zeitan <seba.tancara@gmail.com>
+Date:   Sun Sep 22 15:27:13 2024 -0300
+
+    Creación de sección de destacados
+
+commit 8d95246d92e84f939fb2075f61590f662946ae56
+Author: zeitan <seba.tancara@gmail.com>
+Date:   Sun Sep 22 15:13:04 2024 -0300
+
+    Creación de sección de presentación
+
+commit fce0ef9859622ab9d56b780176b466c38467605c
+Author: zeitan <seba.tancara@gmail.com>
+Date:   Sun Sep 22 14:52:16 2024 -0300
+
+    Creación de navbar y carrousel

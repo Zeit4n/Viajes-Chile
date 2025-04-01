@@ -1,6 +1,4 @@
 $(document).ready(function(){
-
-
     $('.navbar a').mouseenter(function() {
         $(this).addClass('text-primary fw-bold');
     });
